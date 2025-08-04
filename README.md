@@ -6,11 +6,10 @@ This notebook presents an in-depth analysis of key socio-economic, governance, a
 1. Explore economic growth trends
 2. Compare social progress metrics
 3. Assess the impact of governance and stability   
-4. Analyze pre- and post-COVID-19 economic shifts
-     
+4. Analyze pre- and post-COVID-19 economic shifts     
 Through this analysis, we aim to gain insights into each country's developmental trajectory, highlight regional similarities and disparities, and identify areas for policy focus and sustainable development.   
    
-**Countries Included**   
+**Countries Included:**   
 1. Bangladesh
 2. Bhutan
 3. India
