@@ -1,6 +1,5 @@
 # South Asian Development Indicators Analysis (2000–2023)   
    
----
 ## Overview:   
 This notebook presents an in-depth analysis of key socio-economic, governance, and environmental indicators across South Asian countries from 2000 to 2023. The primary objective is to:  
 
@@ -19,8 +18,7 @@ Through this analysis, we aim to gain insights into each country's developmental
 5. Nepal
 6. Sri Lanka
 7. Afghanistan
-8. Maldives
----   
+8. Maldives 
    
 ## Data Source:    
 All indicators were compiled from the World Bank DataBank, ensuring consistency and reliability across years and countries.
